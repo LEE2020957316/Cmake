@@ -1,0 +1,3 @@
+/home/b/Desktop/CmakeMouse/build/CMakeFiles/CMakeMouse.dir
+/home/b/Desktop/CmakeMouse/build/CMakeFiles/edit_cache.dir
+/home/b/Desktop/CmakeMouse/build/CMakeFiles/rebuild_cache.dir
